@@ -2,6 +2,8 @@
 
 ### From Market Discovery to Product Development, Fundraising and B2B Commercialization
 
+![SOLAL TECH — Mobile and desktop platform](solaltech-platform.png)
+
 **Company:** SOLAL TECH  
 **Industry:** LegalTech / SaaS / Digital Assets  
 **Role:** Founder & CEO  
