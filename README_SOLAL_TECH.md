@@ -1,6 +1,7 @@
 # Building and Leading a LegalTech Venture
 
 ### From Market Discovery to Product Development, Fundraising and B2B Commercialization
+Estimated reading time: 9 min
 
 ![SOLAL TECH — Mobile and desktop platform](solaltech-platform.png)
 
