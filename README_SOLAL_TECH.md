@@ -13,15 +13,13 @@ Estimated reading time: 9 min
 
 ---
 
-## Executive Summary
+### The Story in 30 Seconds
 
-I founded SOLAL TECH to address an emerging challenge at the intersection of technology, wealth management and inheritance: how can individuals organize, secure and transmit their digital assets and online identity after death?
+I founded and led SOLAL TECH, a LegalTech venture developing digital inheritance solutions for individuals, beneficiaries and legal professionals.
 
-Existing options were fragmented across account-specific procedures, digital vaults and estate-planning services. I explored how a more coordinated experience could connect individuals, legal professionals and beneficiaries.
+As Founder & CEO, I took the business from market discovery to product development and early B2B commercialization, leading product strategy, marketing, fundraising, partnerships and a cross-functional organization of 14 people.
 
-What began as a consumer-focused concept evolved into a LegalTech venture developing a digital inheritance platform and a professional SaaS offering for the notarial sector.
-
-As Founder & CEO, I was responsible for building and leading the business across product strategy, technology delivery, marketing, brand development, communications, fundraising, investor relations, business development and organizational management.
+Over five years, I secured approximately **€995K in financing**, coordinated the development of a consumer platform and professional SaaS offering, and established initial paying customers in the notarial sector.
 
 ### Selected Responsibilities and Outcomes
 
